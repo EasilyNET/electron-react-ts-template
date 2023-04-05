@@ -1,9 +1,9 @@
 {
-  "name": "hutao.shell",
+  "name": "electron-react-ts",
   "version": "1.0.0-alpha",
   "license": "MIT",
   "author": {
-    "name": "Joes",
+    "name": "joes_du",
     "email": "dygood@outlook.com"
   },
   "main": ".webpack/main",
